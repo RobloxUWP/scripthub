@@ -1,9 +1,9 @@
 [{
   "name": "sample script",
-  "auther": "yeemi",
-  "assets": {
-    "thumbnail_small": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e759701-d36b-422d- a631-08c8846a3c00/width=1200/6e759701-d36b-422d-a631-08c8846a3c00.jpeg",
-    "thumbnail_large": "unused"
-  },
+  "author": "yeemi",
+  "assets": [
+    "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e759701-d36b-422d- a631-08c8846a3c00/width=1200/6e759701-d36b-422d-a631-08c8846a3c00.jpeg",
+    "unused"
+  ],
   "referenceId": "1"
 }]
